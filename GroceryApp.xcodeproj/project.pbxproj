@@ -11,6 +11,16 @@
 		CE7AB9032B26055200747F5B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB9022B26055200747F5B /* ContentView.swift */; };
 		CE7AB9052B26055700747F5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE7AB9042B26055700747F5B /* Assets.xcassets */; };
 		CE7AB9082B26055700747F5B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE7AB9072B26055700747F5B /* Preview Assets.xcassets */; };
+		CE7AB90F2B2607D400747F5B /* GroceryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB90E2B2607D400747F5B /* GroceryModel.swift */; };
+		CE7AB9112B2607E200747F5B /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB9102B2607E200747F5B /* CustomTabBar.swift */; };
+		CE7AB9132B2607EB00747F5B /* StoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB9122B2607EB00747F5B /* StoreView.swift */; };
+		CE7AB9152B2607F500747F5B /* CartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB9142B2607F500747F5B /* CartView.swift */; };
+		CE7AB9192B26080900747F5B /* AddButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB9182B26080900747F5B /* AddButton.swift */; };
+		CE7AB91B2B26081400747F5B /* AdjustButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB91A2B26081400747F5B /* AdjustButton.swift */; };
+		CE7AB91D2B26081F00747F5B /* ProductCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB91C2B26081F00747F5B /* ProductCardView.swift */; };
+		CE7AB91F2B26082E00747F5B /* GroceriesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB91E2B26082E00747F5B /* GroceriesApp.swift */; };
+		CE7AB9232B260A8100747F5B /* MainTabContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB9222B260A8100747F5B /* MainTabContainerView.swift */; };
+		CE7AB9252B260F9900747F5B /* SetUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7AB9242B260F9900747F5B /* SetUpView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +29,16 @@
 		CE7AB9022B26055200747F5B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE7AB9042B26055700747F5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE7AB9072B26055700747F5B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CE7AB90E2B2607D400747F5B /* GroceryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroceryModel.swift; sourceTree = "<group>"; };
+		CE7AB9102B2607E200747F5B /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
+		CE7AB9122B2607EB00747F5B /* StoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreView.swift; sourceTree = "<group>"; };
+		CE7AB9142B2607F500747F5B /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
+		CE7AB9182B26080900747F5B /* AddButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddButton.swift; sourceTree = "<group>"; };
+		CE7AB91A2B26081400747F5B /* AdjustButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdjustButton.swift; sourceTree = "<group>"; };
+		CE7AB91C2B26081F00747F5B /* ProductCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCardView.swift; sourceTree = "<group>"; };
+		CE7AB91E2B26082E00747F5B /* GroceriesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroceriesApp.swift; sourceTree = "<group>"; };
+		CE7AB9222B260A8100747F5B /* MainTabContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabContainerView.swift; sourceTree = "<group>"; };
+		CE7AB9242B260F9900747F5B /* SetUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetUpView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +73,16 @@
 			children = (
 				CE7AB9002B26055200747F5B /* GroceryAppApp.swift */,
 				CE7AB9022B26055200747F5B /* ContentView.swift */,
+				CE7AB90E2B2607D400747F5B /* GroceryModel.swift */,
+				CE7AB9102B2607E200747F5B /* CustomTabBar.swift */,
+				CE7AB9222B260A8100747F5B /* MainTabContainerView.swift */,
+				CE7AB9122B2607EB00747F5B /* StoreView.swift */,
+				CE7AB9142B2607F500747F5B /* CartView.swift */,
+				CE7AB9242B260F9900747F5B /* SetUpView.swift */,
+				CE7AB9182B26080900747F5B /* AddButton.swift */,
+				CE7AB91A2B26081400747F5B /* AdjustButton.swift */,
+				CE7AB91C2B26081F00747F5B /* ProductCardView.swift */,
+				CE7AB91E2B26082E00747F5B /* GroceriesApp.swift */,
 				CE7AB9042B26055700747F5B /* Assets.xcassets */,
 				CE7AB9062B26055700747F5B /* Preview Content */,
 			);
@@ -137,8 +167,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE7AB9152B2607F500747F5B /* CartView.swift in Sources */,
+				CE7AB9112B2607E200747F5B /* CustomTabBar.swift in Sources */,
+				CE7AB9232B260A8100747F5B /* MainTabContainerView.swift in Sources */,
 				CE7AB9032B26055200747F5B /* ContentView.swift in Sources */,
+				CE7AB91D2B26081F00747F5B /* ProductCardView.swift in Sources */,
+				CE7AB91B2B26081400747F5B /* AdjustButton.swift in Sources */,
+				CE7AB9252B260F9900747F5B /* SetUpView.swift in Sources */,
+				CE7AB90F2B2607D400747F5B /* GroceryModel.swift in Sources */,
+				CE7AB9132B2607EB00747F5B /* StoreView.swift in Sources */,
 				CE7AB9012B26055200747F5B /* GroceryAppApp.swift in Sources */,
+				CE7AB9192B26080900747F5B /* AddButton.swift in Sources */,
+				CE7AB91F2B26082E00747F5B /* GroceriesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
